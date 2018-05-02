@@ -1,2 +1,2 @@
 # ife
-note,homework for ife
+note & homework for ife
